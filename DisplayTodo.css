@@ -1,0 +1,18 @@
+.todo-list-item{
+    display:flex;
+    border:1px solid black;
+    max-height: 300px;
+    top:50%;
+    left:50%;
+    align-items: center;
+    justify-content: center;
+    width: fit-content;
+    margin-top: auto;
+    margin-right: auto;
+    padding: 5%;
+    background-color: black;
+}
+.icon{
+    padding: 20px;
+    justify-content: space-between;
+}
